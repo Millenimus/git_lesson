@@ -1,5 +1,5 @@
 # main.py
-print ("Welcom to the calculator!")
+print ("Welcome to the calculator!")
 def add(a, b)
 	return a+b
 def substruct(a, b)
